@@ -1,5 +1,5 @@
 Flask
-yt-dlp
+pytube
 moviepy
 selenium
 gunicorn
